@@ -1,12 +1,16 @@
 # Lucky Thirteen
+A Collaborative Project
+## Collaborators
+- Yovela, ybudiman@student.unimelb.edu.au, @yovelabudiman
+- Itmam, ilabib@student.unimelb.edu.au, @labib08
 
 ## Players
-There are 4 different types of players that can play the game. These are set up in the property file.
+There are 4 types of players that can play the game. These are set up in the property file.
 - Human: Interactive player type who selects the card to discard through a double left-click
 - Random: Computer player that discards a card at random
 - Basic: Computer player that discards the card with the lowest value
 - Clever: Computer player that will keep track of all cards played and plays by trying to maximise its score
-## Rules:
+## Rules
 1. A shuffled deck of cards deals two cards face up to the centre of the playing area (visible to all players)
 2. Two cards are dealt to each player (not visible to other players)
 3. Starting with Player 1 (P[0]), they are dealt 1 card from the pile and chooses a card to discard from their hand
